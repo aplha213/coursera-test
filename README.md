@@ -8,7 +8,7 @@
     header element - Some header information goes here. Usually consists of company logo, some tag line, etc. Sometimes, navigation is contained in the header as well.
     <nav>nav (short for navigation) element - Usually contains links to different parts of the web site.</nav>
   </header>
-  <h1>Main Heading of the Page (hard not to have it)</h1>
+  <h1>Main Heading of the Page</h1>
   <section>
     Section 1
     <article>Article 1</article>
