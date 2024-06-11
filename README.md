@@ -1,5 +1,4 @@
-<!doctype html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Heading Elements</title>
@@ -21,6 +20,7 @@
     <article>Article 4</article>
     <article>Article 5</article>
     <article>Article 6</article>
+    <article>Article 7</article>
     <div>Regular DIV element</div>
   </section>
   <aside>
