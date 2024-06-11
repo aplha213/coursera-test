@@ -1,16 +1,18 @@
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>div and span elements</title>
-</head>
-<body>
- <div>*** DIV 1: Some content here ***</div>
- <div>*** DIV 2: Following right after div 1 ***</div>
- <span>*** SPAN 1: Following right after div 2 ***</span>
- <div>
-   *** DIV 3: following right after span 1
-   <span>*** SPAN 2: INSIDE div 3 ***</span>
-   continue content of div 3 ***
-  </div>
-</body>
-</html>  
+<div>Dear all,
+<span>I took this really cool course
+</span></div>
+<span>on Coursera.org. I think it's
+my favorite course I've EVER taken!
+Here is the URL for it:
+</span>
+<a href="...">HTML, CSS and JS for Web Developers</a>
+<div>
+Does anyone know how I can give this course 6
+out of 5 stars?
+</div>
+<div>
+Thank you,
+-Yaakov.... I mean a random student! Definitely not Yaakov.
+</div>
+</html>
