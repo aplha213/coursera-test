@@ -1,18 +1,14 @@
 <html lang="en">
-<div>Dear all,
-<span>I took this really cool course
-</span></div>
-<span>on Coursera.org. I think it's
-my favorite course I've EVER taken!
-Here is the URL for it:
-</span>
-<a href="...">HTML, CSS and JS for Web Developers</a>
-<div>
-Does anyone know how I can give this course 6
-out of 5 stars?
-</div>
-<div>
-Thank you,
--Yaakov.... I mean a random student! Definitely not Yaakov.
-</div>
+<head>
+  <meta charset="utf-8">
+  <title>Heading Elements</title>
+</head>
+<body>
+  <h1>This is the Main Heading</h1>
+  <h2>Subheading 2</h2>
+  <h3>Subheading 3</h3>
+  <h4>Subheading 4</h4>
+  <h5>Subheading 5</h5>
+  <h6>Subheading 6</h6>
+</body>
 </html>
