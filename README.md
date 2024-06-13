@@ -8,7 +8,6 @@
   <section>
     We can link ta oa file in the same directory as this HTML file like this:
     <a href="same-directiry.html" title="same dir link">Liking to a file in the same directory</a>
-
     <a href="same-directory.html" title="same dir link">
       <div> DIV Linking to a file in the same directory</div>
     </a>
