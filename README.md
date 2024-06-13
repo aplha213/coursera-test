@@ -2,24 +2,28 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Unordered Lists</title>
+  <title>Ordered list</title>
 </head>
 <body>
-  <h1>Unordered list</h1>
+  <h1>Ordered list</h1>
   <div>
-    My typical dinner shopping list
-    <ul>
-      <li>Milk</li>
-      <li>Donuts</li>
-      <li>Cookies
-        <ul>
-          <li>Chocolate</li>
-          <li>Peanut Butter</li>
-          <li>Sugar</li>
-        </ul>
+
+    Oreo cookie eating procedure:
+    <ol>
+      <li>Open box</li>
+      <li>Take out cookie</li>
+      <li>Make a Double Oreo
+        <ol>
+          <li>Peel off top part</li>
+          <li>Place another cookie in the middle</li>
+          <li>Put back the top part</li>
+        </ol>
       </li>
-      <li>Baking Soda</li>
-    </ul>
+      <li>Enjoy!</li>
+    </ol>
+  </div>
+</body>
+</html>  
   </div>
 </body>
 </html>  
