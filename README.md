@@ -8,8 +8,8 @@
   <section>
     <p>
       Let's link to a Facebook Fan page I created for this course! 
-    <a href="hhtp://www.facebook.com/CourseWebDev"
-    target="_blank" title="like Our Page">Course Facebook Page</a>
+     <a href="hhtp://www.facebook.com/CourseWebDev"
+     target="_blank" title="like Our Page">Course Facebook Page</a>
     </p>
   </section>     
 </body>
