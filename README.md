@@ -1,26 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="utf-8">
-  <title>Ordered list</title>
+  <title>HTML Entities</title>
 </head>
 <body>
-  <h1>Ordered list</h1>
-  <div>
-    Oreo cookie eating procedure:
-    <ol>
-      <li>Open box</li>
-      <li>Take out cookie</li>
-      <li>Make a Double Oreo
-        <ol>
-          <li>Peel off top part</li>
-          <li>Place another cookie in the middle</li>
-          <li>Put back the top part</li>
-        </ol>
-      </li>
-      <li>Enjoy!</li>
-    </ol>
-  </div>
+<h1>Don't be afraid to be <then a 100% success & >more:</h1>
+<p>
+  "Our greatest glory is not in never falling, but in rising every time we fall.I can accept failure, everyone fails at something.Success is not the key to happiness.Failure is simply the opportunity to begin again, this time more intelligently."  
+</p>
+<p>Theodor Roosevelt 1910 Copyright</p>
 </body>
-</html>  
+</html> 
 
