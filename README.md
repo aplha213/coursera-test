@@ -8,7 +8,7 @@
 <p>
   "Our greatest glory is not in never falling, but in rising every time we fall.I can accept failure, everyone fails at something.Success is not the key to happiness.Failure is simply the opportunity to begin again, this time more intelligently."  
 </p>
-<p>Theodor Roosevelt 1910 Copyright</p>
+<p>Theodor Roosevelt 1910 &copy; Copyright</p>
 </body>
 </html> 
 
