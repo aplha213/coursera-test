@@ -5,44 +5,27 @@
 <title>Simple Selectors</title>
 <style>
 
-/* all h2 elements */
-h2 {
-  color: red;
-  text-align: center;
-}
-
 .highlight {
-  font-size: 20px;
-  font-weight: bold;
-  font-style: italic;
   background-color: green;
-  opacity: .6;
 }
 
-#mainPoint {
-  font-size: 24px;
-  font-weight: bold;
-  background-color: red;
-  opacity: .7;
+p.highlight {
+  font-style: italic;
 }
 
-p, h1 {
-  color: blue;
-  text-align: center;
+.highlight.mainpoint {
+  color: red;
+  background-color: black;
 }
 
 </style>
 </head>
 <body>
 
-<h1>Simple Selectors (h1)</h1>
-<h2>Subheading 1 (h2)</h2>
-<p class="highlight">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus amet alias est? Nobis cum quasi at soluta odit, maiores quaerat dolores expedita ex nemo ea repellendus dolorem sed maxime quos?</p>
-<p class="highlight">Paragraph with attribute class="highlight". Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-<h2>Subheading 2 (h2)</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi nemo ipsum dolores vel modi magnam veniam alias at nam. Voluptatem officiis dolor dolorem aspernatur dolorum modi ipsa, nobis animi aut!</p>
-<div>This is the main point of the entire article. So, attribute
-<span id="mainPoint">id="mainPoint".</span> </div>
+<h1 class="highlight">Element with class selector</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus amet alias est? Nobis cum quasi at soluta odit, maiores quaerat dolores expedita ex nemo ea repellendus dolorem sed maxime quos?</p>
+<p class="highlight">This is P with class highlight</p>
+<div class="mainpoint highlight">This is the main point of the article</div>
 
 </body>
 </html>
