@@ -12,7 +12,10 @@ h1 {
   color: green;
   font-size: 36px;
   text-align: center;
-}
+ }
+h2 {
+ color: orange;
+ }
 </style>
 </head>
 <body>
