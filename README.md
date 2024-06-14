@@ -10,6 +10,7 @@
 }
 
 p.highlight {
+  color: crimson;
   font-style: italic;
 }
 
