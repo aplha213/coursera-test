@@ -42,13 +42,7 @@ p, h1 {
 <h2>Subheading 2 (h2)</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi nemo ipsum dolores vel modi magnam veniam alias at nam. Voluptatem officiis dolor dolorem aspernatur dolorum modi ipsa, nobis animi aut!</p>
 <div>This is the main point of the entire article. So, attribute
-<span id="mainPoint">id="mainPoint".</span>
-</div>
-</body>
-</html>
-<h2>Subheading 1</h2>
-<p>CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.</p>
-<h2>Subheading 2</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est maxime aperiam blanditiis reprehenderit voluptatem quia quas nesciunt amet atque temporibus quod harum sequi voluptate consequatur tenetur perferendis, cum ad! Eos.</p>
+<span id="mainPoint">id="mainPoint".</span> </div>
+
 </body>
 </html>
