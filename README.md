@@ -31,7 +31,7 @@ a:hover, a:active {
 
 <header>
   <ul>
-    <li><a href:"/">Home</a></li>
+    <li><a href="/">Home</a></li>
     <li><a href="http://goo.gl/V0Wl6s"
     target="_blank">AngularJS Courses</a></li>
     <li><a href="http://www.facebook.com/CourseraWebDev" target="_blank">Facebook Fan page</a></li>
