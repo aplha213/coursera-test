@@ -13,7 +13,7 @@ a:link, a:visited {
   background-color: green;
   border: 1px solid blue;
   color: black;
-  display: bold;
+  display: block;
   width: 200px;
   text-align: center;
   margin-bottom: 1px;
