@@ -1,32 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Simple Selectors</title>
+<title>Psuedo Class Selectors</title>
 <style>
 
-.highlight {
+header li {
+  list-style: none;
+}  
+a:link, a:visited {
+  text-decoration: none;
   background-color: green;
+  border: 1px solid blue;
+  color: balck;
+  display: black;
+  width: 200px;
+  text-align: center;
+  margin-bottom: 1px;
 }
 
-p.highlight {
-  color: crimson;
-  font-style: italic;
-}
-
-.highlight.mainpoint {
-  color: red;
-  background-color: black;
+a:hover, a:active {
+  background-color: red;
+  color: purple;
 }
 
 </style>
 </head>
 <body>
+<h1>Psuedo Class Selector</h1>
 
-<h1 class="highlight">Element with class selector</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus amet alias est? Nobis cum quasi at soluta odit, maiores quaerat dolores expedita ex nemo ea repellendus dolorem sed maxime quos?</p>
-<p class="highlight">This is P with class highlight</p>
-<div class="mainpoint highlight">This is the main point of the article</div>
+<header>
+  <ul>
+    <li><a href:"/">Home</a></li>
+    <li><a href="http://goo.gl/V0Wl6s"
+    target="_blank">AngularJS Courses</a></li>
+    <li><a href="http://www.facebook.com/CourseraWebDev" target="_blank">Facebook Fan page</a></li>
+  </ul>
+</header>
+
+<section>
+  <div>DIV 1</div>
+  <div>DIV 2</div>
+  <div>DIV 3</div>
+  <div>DIV 4</div>
+  <div>DIV 5</div>
+  <div>DIV 6</div>
+  <div>DIV 7</div>
+  <div>DIV 8</div>
+  <div>DIV 9</div>
+  <div>DIV 10</div>
+</section>
 
 </body>
 </html>
+    
