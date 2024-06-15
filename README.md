@@ -12,8 +12,8 @@ a:link, a:visited {
   text-decoration: none;
   background-color: green;
   border: 1px solid blue;
-  color: balck;
-  display: black;
+  color: black;
+  display: bold;
   width: 200px;
   text-align: center;
   margin-bottom: 1px;
