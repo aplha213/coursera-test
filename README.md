@@ -12,8 +12,8 @@ a:link, a:visited {
   text-decoration: none;
   background-color: green;
   border: 1px solid blue;
-  color: black;
-  display: block;
+  color: balck;
+  display: black;
   width: 200px;
   text-align: center;
   margin-bottom: 1px;
@@ -22,6 +22,19 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: red;
   color: purple;
+}
+
+header li:nth-chid(3) {
+  font-size: 24px;
+}
+
+section div:nth-child(odd) {
+  background-color: gray;
+}
+
+section div:nth-child(4):hover {
+  background-color: green;
+  cursor: pointer;
 }
 
 </style>
@@ -53,4 +66,5 @@ a:hover, a:active {
 
 </body>
 </html>
+
     
